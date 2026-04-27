@@ -1,0 +1,5 @@
+{
+  "name": "Podcast SRT Translator",
+  "description": "Translate SRT files for podcast content to support MCCQE preparation.",
+  "requestFramePermissions": []
+}
